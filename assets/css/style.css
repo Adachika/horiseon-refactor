@@ -63,12 +63,12 @@ div.hero img {
     object-fit: cover;
 }
 
-.float-left {
+section.content article.content img.float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+section.content article.content img.float-right {
     float: right;
     margin-left: 25px;
 }
